@@ -11,7 +11,7 @@ Update the tarball_url line in scripts/build.sh
 
 `heroku create`
 
-`heroku config:set BUILDPACK_URL=https://github.com/ddollar/heroku-buildpack-apt`
+`heroku config:set BUILDPACK_URL=https://github.com/kholdrex/heroku-pdftk-buildpack`
 
 `git push heroku master`
 
